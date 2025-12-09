@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enzo2900
-- 🌱 I’m currently learning React, Spring and Unity
+- 🌱 I’m currently trying to create a Navmesh generator for AI in games in Unity
 
  
 <!---
