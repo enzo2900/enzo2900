@@ -39,5 +39,4 @@ Mon parcours (BUT3 Informatique, Licence 3 et Master) m'apporte une double exper
 
 ## 📫 Me contacter
 
-* **LinkedIn :** [Ton lien LinkedIn ici]
-* **Email :** enzo.cluzel@iut-rodez.fr
+* **LinkedIn :** www.linkedin.com/in/enzo-cluzel
