@@ -33,7 +33,7 @@ Mon parcours (BUT3 Informatique, Licence 3 et Master) m'apporte une double exper
 
 ### 📝 Gestion de Notes  (BUT3 Informatique)
 *Application logicielle de gestion de notes scolaire.*
-* ☕ **[Dépôt GitHub](https://github.com/DroGone31/Projet-Java-Gestion-Note) : Conception, modélisation et développement orienté objet en Java.
+* ☕ **[Dépôt GitHub](https://github.com/DroGone31/Projet-Java-Gestion-Note)** : Conception, modélisation et développement orienté objet en Java.
 
 ---
 
