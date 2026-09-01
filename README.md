@@ -16,6 +16,19 @@ Mon parcours (BUT3 Informatique, Licence 3 et Master) m'apporte une double exper
 
 ---
 
+## 🚀 Projets Personnels & Réalisations Indépendantes
+
+### 🛠️ [FrameworkApplicatif](https://github.com/enzo2900/frameworkApplication)
+*Conception d'un framework applicatif en Java géré avec Maven, axé sur la modularité, la réutilisabilité du code et l'inversion de contrôle (IoC).*
+
+### 🕹️ [PacmanArduino](https://github.com/enzo2900/pacmanArduino)
+*Réadaptation du jeu Pac-Man sur microcontrôleur Arduino avec une architecture distribuée (Émetteur/Récepteur) via communication série (UART) et IA de recherche de chemin.*
+
+### 💬 [ReseauChatRoom](https://github.com/enzo2900/ReseauChatRoom)
+*Application de salon de discussion multi-utilisateur en Java basée sur la programmation réseau (Sockets TCP) et une architecture multi-threadée.*
+
+---
+
 ## 🎓 Parcours Universitaire & Projets d'Équipe
 
 ### 🎭 Ma Petite Compagnie (Licence 3 Informatique)
