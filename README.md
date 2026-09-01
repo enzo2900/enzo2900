@@ -20,11 +20,11 @@ Mon parcours (BUT3 Informatique, Licence 3 et Master) m'apporte une double exper
 
 ### 🎭 Ma Petite Compagnie (Licence 3 Informatique)
 *Application web de gestion complète pour une compagnie de théâtre.*
-* 🌐 **[Dépôt GitHub]((https://github.com/JalilArfaoui/ma-petite-compagnie))** : Développé en équipe avec **Next.js 16 (App Router)**, **Prisma** et **PostgreSQL** dans un environnement conteneurisé avec Docker.
+* 🌐 **[Dépôt GitHub](https://github.com/JalilArfaoui/ma-petite-compagnie)** : Développé en équipe avec **Next.js 16 (App Router)**, **Prisma** et **PostgreSQL** dans un environnement conteneurisé avec Docker.
 
 ### 🚚 Gestion de Tournée Commerciale (BUT3 Informatique)
 *Application complète permettant à des commerciaux itinérants d'optimiser leurs visites en réduisant les distances parcourues.*
-* 🖥️ **[Dépôt Back-end (Spring Boot)]([https://github.com](https://github.com/lbaudroit/gestion-tournee-commercial-backend))** : Architecture de l'API REST, persistance des données (MySQL/MongoDB) et logique métier.
+* 🖥️ **[Dépôt Back-end (Spring Boot)](https://github.com/lbaudroit/gestion-tournee-commercial-backend)** : Architecture de l'API REST, persistance des données (MySQL/MongoDB) et logique métier.
 * 📱 **[Dépôt Front-end (Android)](https://github.com/lbaudroit/gestion-tournee-commercial-frontend)** : Conception et développement de l'application mobile.
 
 ### ⚙️ Maintenance & Refactoring  (BUT3 Informatique)
