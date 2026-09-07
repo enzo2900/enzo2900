@@ -1,6 +1,6 @@
 # Salut, moi c'est Enzo Cluzel 👋
 
-Actuellement en **Master SDL (Sciences du Logiciel / Langage)** à Toulouse, je suis un développeur passionné par l'ingénierie logicielle, la gestion d'infrastructures et la conception d'applications robustes. 
+Actuellement en **Master SDL (Sciences du Logiciel)** à Toulouse, je suis un développeur passionné par l'ingénierie logicielle, la gestion d'infrastructures et la conception d'applications robustes. 
 
 Mon parcours (BUT3 Informatique, Licence 3 et Master) m'apporte une double expertise alliant de solides compétences théoriques à une forte autonomie pratique.
 
