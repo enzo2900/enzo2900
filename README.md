@@ -43,7 +43,7 @@ Mon parcours (BUT3 Informatique, Licence 3 et Master) m'apporte une double exper
 *Conception d'un framework applicatif en Java géré avec Maven, axé sur la modularité, la réutilisabilité du code et l'inversion de contrôle (IoC).*
 
 ### 🛠️ [Outil NavMesh 2D](https://github.com/enzo2900/NavMesh-2D-Unity)
-*Elaboration d’un outil en Unity pour créer un mesh de navigation afin que des entités puissent se déplacer dans un monde 2D inconnu*
+*Elaboration d’un outil en Unity pour créer un mesh de navigation afin que des entités puissent se déplacer dans un monde 2D inconnu.*
 
 ### 🕹️ [Pac-Man Arduino](https://github.com/enzo2900/pacmanArduino)
 *Réadaptation du jeu Pac-Man sur microcontrôleur Arduino avec une architecture distribuée (Émetteur/Récepteur) via communication série et IA de recherche de chemin.*
