@@ -55,3 +55,4 @@ Mon parcours (BUT3 Informatique, Licence 3 et Master) m'apporte une double exper
 ## 📫 Me contacter
 
 * **LinkedIn :** www.linkedin.com/in/enzo-cluzel
+* **Email:** enzo.cluzel@utoulouse.fr
